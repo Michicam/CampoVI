@@ -7,7 +7,11 @@ format: pdf
 editor: visual
 ---
 Introduccion
+Las playas arenosas han sido tradicionalmente descritas como "desiertos marinos" debido a que su biodiversidad no es evidente a simple vista; sin embargo, son ecosistemas dinámicos que albergan una gran riqueza de vida oculta entre los granos de arena. En el caso de Dzilam de Bravo, nos encontramos ante un sistema de micromarea (rango mareal menor a 2 metros), donde la zonificación biológica es estrecha y está fuertemente influenciada por la energía de las olas y la estructura del sedimento. En estos ambientes, la fauna bentónica no se distribuye de forma aleatoria, sino que responde a gradientes físicos de humedad, temperatura y disponibilidad de alimento que determinan su posición en la costa.
 
+Dentro de esta comunidad, los oligoquetos marinos juegan un papel ecológico fundamental como detritívoros, especialmente en zonas de acumulación de materia orgánica como el supralitoral. Estos organismos poseen adaptaciones vermiformes que les permiten desplazarse por los espacios intersticiales, pero su presencia es sensible a los cambios en el ambiente físico. Por ello, el uso de protocolos estandarizados como el de la Red de Observación de la Biodiversidad Marina (MBON) permite evaluar de manera sistemática cómo estos anélidos ocupan diferentes estratos, desde la parte alta de la playa hasta la zona de barrido o swash.
+
+Es importante considerar que la distribución de la fauna no solo cambia en el espacio, sino también en escalas temporales cortas debido a ritmos biológicos y variaciones térmicas a lo largo del día. El metabolismo de los invertebrados aumenta con la temperatura, lo que puede forzar migraciones verticales u horizontales para evitar la desecación y el estrés calórico durante las horas más intensas del sol. Bajo este contexto, surge la pregunta de investigación: ¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (mañana vs. tarde) en Dzilam de Bravo? Nuestra hipótesis propone que la abundancia de oligoquetos será mayor durante la mañana (M) en ambas zonas, ya que las temperaturas más bajas y la mayor humedad favorecen su presencia en capas superficiales, mientras que por la tarde (T) los organismos migrarán a capas más profundas para protegerse.
 
 Metodos
 
