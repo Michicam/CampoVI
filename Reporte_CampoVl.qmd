@@ -13,7 +13,12 @@ Metodos
 
 
 Pregunta 
-¿?
+¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde?
+
+Hipotesis
+Ho:
+
+Ha:
 
 ## Running Code
 
