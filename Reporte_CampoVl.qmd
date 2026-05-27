@@ -6,26 +6,52 @@ School: "ENES Merida, UNAM"
 format: pdf
 editor: visual
 ---
-Introduccion
-Las playas arenosas han sido tradicionalmente descritas como "desiertos marinos" debido a que su biodiversidad no es evidente a simple vista; sin embargo, son ecosistemas dinámicos que albergan una gran riqueza de vida oculta entre los granos de arena (Schlacher et al., 2008; McLachlan & Brown, 2006). En Dzilam de Bravo, Yucatán nos encontramos ante un sistema de micromarea (rango mareal menor a 2 metros), donde la zonificación biológica es estrecha y está fuertemente influenciada por la energía de las olas y la estructura del sedimento. En estos ambientes, la fauna bentónica no se distribuye de forma aleatoria, sino que responde a gradientes físicos de humedad, temperatura y disponibilidad de alimento que determinan su posición en la costa (McLachlan & Brown, 2006; Schlacher et al., 2008).
 
-Dentro de esta comunidad, los oligoquetos marinos desempeñan una función ecológica vital al actuar como detritívoros y ser componentes dominantes de la producción secundaria en sedimentos litorales (Giere, 2006). Estos anélidos presentan cuerpos delgados y vermiformes, una adaptación que les permite navegar de manera eficiente por los poros del sedimento, aunque su distribución vertical suele verse afectada por gradientes de oxígeno y la presencia de sulfuros en el ambiente intersticial (McLachlan & Brown, 2006; Giere, 2006). Por lo tanto, el empleo del protocolo estandarizado de la Red de Observación de la Biodiversidad Marina (MBON) permite cuantificar sistemáticamente cómo se organizan estas poblaciones en diferentes estratos mareales, integrando desde el supralitoral hasta la zona de barrido o swash (MBON Pole to Pole, 2019).  
+Introduccion Las playas arenosas han sido tradicionalmente descritas como "desiertos marinos" debido a que su biodiversidad no es evidente a simple vista; sin embargo, son ecosistemas dinámicos que albergan una gran riqueza de vida oculta entre los granos de arena (Schlacher et al., 2008; McLachlan & Brown, 2006). En Dzilam de Bravo, Yucatán nos encontramos ante un sistema de micromarea (rango mareal menor a 2 metros), donde la zonificación biológica es estrecha y está fuertemente influenciada por la energía de las olas y la estructura del sedimento. En estos ambientes, la fauna bentónica no se distribuye de forma aleatoria, sino que responde a gradientes físicos de humedad, temperatura y disponibilidad de alimento que determinan su posición en la costa (McLachlan & Brown, 2006; Schlacher et al., 2008).
+
+Dentro de esta comunidad, los oligoquetos marinos desempeñan una función ecológica vital al actuar como detritívoros y ser componentes dominantes de la producción secundaria en sedimentos litorales (Giere, 2006). Estos anélidos presentan cuerpos delgados y vermiformes, una adaptación que les permite navegar de manera eficiente por los poros del sedimento, aunque su distribución vertical suele verse afectada por gradientes de oxígeno y la presencia de sulfuros en el ambiente intersticial (McLachlan & Brown, 2006; Giere, 2006). Por lo tanto, el empleo del protocolo estandarizado de la Red de Observación de la Biodiversidad Marina (MBON) permite cuantificar sistemáticamente cómo se organizan estas poblaciones en diferentes estratos mareales, integrando desde el supralitoral hasta la zona de barrido o swash (MBON Pole to Pole, 2019).
 
 Es importante considerar que la distribución de la fauna no solo cambia en el espacio, sino también en escalas temporales cortas debido a ritmos biológicos y variaciones térmicas a lo largo del día. El metabolismo de los invertebrados aumenta con la temperatura, lo que puede forzar migraciones verticales u horizontales para evitar la desecación y el estrés calórico durante las horas más intensas del sol (McLachlan & Brown, 2006; Giere, 2006). Bajo este contexto, surge la pregunta de investigación: ¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (mañana vs. tarde) en Dzilam de Bravo? Nuestra hipótesis propone que la abundancia de oligoquetos será mayor durante la mañana (M) en ambas zonas, ya que las temperaturas más bajas y la mayor humedad favorecen su presencia en capas superficiales, mientras que por la tarde (T) los organismos migrarán a capas más profundas para protegerse.
 
-Área de estudio
-
 Materiales y métodos
 
+Área de estudio
 
-Pregunta 
-¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde?
+El estudio se llevó a cabo en el norte de la zona costera de la Península de Yucatán, sureste del Golfo de México. El clima es seco y árido, con una estación lluviosa en verano y precipitaciones escasas durante el resto del año (Marina et al., 2017). El muestreo se realizó en el litoral de Dzilam de Bravo, cuyas aguas costeras presentan profundidades de entre 2 y 8.7 m y fondos cubiertos por pastos marinos y macroalgas (Herrera-Silveira et al., 2004).
 
-Hipotesis
-Ho:No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia.
+Muestreos y análisis
 
-Ha:Existe un efecto de interacción significativo entre ña zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende del zona donde se encuentran establecidos.
+Para el muestreo de oligoquetos se seleccionaron dos zonas en el litoral: la zona supralitoral (Zona 1) y la zona mesolitoral/sublitoral (Zona 2). El muestreo se llevó a cabo del 18 al 22 de mayo de 2026, con dos turnos diarios (matutino y vespertino), a excepción del 22 de mayo, en que únicamente se realizó el turno matutino. Cada jornada incluyó 12 puntos de muestreo distribuidos entre ambas zonas: cuatro correspondientes a la Zona 1 y ocho a la Zona 2, resultando en un total de 24 puntos por día en los días con ambos turnos. Las coordenadas geográficas de cada punto se presentan en la Tabla 1.
 
+En cada punto de muestreo se extrajo sedimento mediante un núcleo, el cual se introdujo verticalmente hasta una profundidad aproximada de 20 cm. El núcleo se depositó en un contenedor y se añadió agua de mar en proporción a la muestra, para remover el sedimento. Se mezcló manualmente durante 1 minuto\~ y posteriormente se tamizó. Este procedimiento se repitió tres veces por punto con el fin de maximizar la recuperación de organismos.
+
+De las muestras obtenidas se registró la abundancia y la longitud corporal de cada individuo de oligoqueto. Este procedimiento se aplicó a la totalidad de las muestras colectadas en cada jornada de muestreo.
+
+**Tabla 1.** Coordenadas geográficas de los puntos de muestreo por fecha y turno.
+
+| Fecha           | Turno      | Coordenadas                      |
+|-----------------|------------|----------------------------------|
+| 18 de mayo 2026 | Matutino   | N 21° 23' 24.6" W 088° 54' 36.8" |
+| 18 de mayo 2026 | Vespertino | N 21° 23' 24.7" W 088° 54' 29.9" |
+| 19 de mayo 2026 | Matutino   | N 21° 23' 24.5" W 088° 54' 30.7" |
+| 19 de mayo 2026 | Vespertino | N 21° 23' 23.1" W 088° 54' 28.8" |
+| 20 de mayo 2026 | Matutino   | N 21° 23' 24.5" W 088° 54' 37.0" |
+| 20 de mayo 2026 | Vespertino | N 21° 23' 24.7" W 088° 54' 37.0" |
+| 21 de mayo 2026 | Matutino   | N 21° 23' 42.5" W 088° 54' 31.3" |
+| 21 de mayo 2026 | Vespertino | N 21° 23' 14.8" W 088° 55' 22.7" |
+| 22 de mayo 2026 | Matutino   | N 21° 23' 22.5" W 088° 54' 27.7" |
+
+Análisis de datos
+
+Para evaluar el efecto de la zona de muestreo y el horario sobre la longitud corporal de los oligoquetos, se empleó un Análisis de Varianza Multivariado por Permutaciones de dos vías (PERMANOVA), utilizando la función *adonis2* del paquete *vegan* (Oksanen et al., 2024) en el entorno estadístico R. Los factores considerados fueron la zona intermareal (Zona 1: supralitoral; Zona 2: mesolitoral/sublitoral) y el horario de muestreo (matutino y vespertino), incluyendo el término de interacción entre ambos. Dado que la variable de respuesta es una medida lineal continua (longitud en mm), se utilizó la distancia euclidiana como métrica de disimilitud. El análisis se ejecutó con 999 permutaciones libres.
+
+Para la visualización de los resultados se elaboraron dos gráficos mediante el paquete *ggplot2*: un diagrama de caja (*boxplot*) que muestra la distribución de las longitudes por zona y horario, y un gráfico de interacción que representa las tendencias de la longitud promedio en función de los factores evaluados.
+
+Pregunta ¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde?
+
+Hipotesis Ho: No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia.
+
+Ha: Existe un efecto de interacción significativo entre la zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende de la zona donde se encuentran establecidos.
 
 ## Running Code
 
