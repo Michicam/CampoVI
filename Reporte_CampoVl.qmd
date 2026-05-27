@@ -47,11 +47,14 @@ Para evaluar el efecto de la zona de muestreo y el horario sobre la longitud cor
 
 Para la visualización de los resultados se elaboraron dos gráficos mediante el paquete *ggplot2*: un diagrama de caja (*boxplot*) que muestra la distribución de las longitudes por zona y horario, y un gráfico de interacción que representa las tendencias de la longitud promedio en función de los factores evaluados.
 
-Pregunta ¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde?
+OPCION 1: 
+-Pregunta de investigación: ¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (matutino vs. vespertino) en Dzilam de Bravo? 
+-Hipotesis: la abundancia de oligoquetos será mayor durante la mañana (M) en ambas zonas, ya que las temperaturas más bajas y la mayor humedad favorecen su presencia en capas superficiales, mientras que por la tarde (T) los organismos migrarán a capas más profundas para protegerse.
 
-Hipotesis Ho: No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia.
-
-Ha: Existe un efecto de interacción significativo entre la zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende de la zona donde se encuentran establecidos.
+OPCION 2:
+-Pregunta ¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde?
+-Hipotesis Ho: No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia.
+-Ha: Existe un efecto de interacción significativo entre la zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende de la zona donde se encuentran establecidos.
 
 ## Running Code
 
