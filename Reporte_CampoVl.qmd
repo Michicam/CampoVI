@@ -56,6 +56,14 @@ OPCION 2:
 -Hipotesis Ho: No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia.
 -Ha: Existe un efecto de interacción significativo entre la zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende de la zona donde se encuentran establecidos.
 
+
+Referencias bibliograficas 
+-Defeo, Omar & McLachlan, Anton. (2025). The Ecology of Sandy Shores. 10.1016/B978-0-443-21754-8.00003-8.
+-Giere, Olav. (2006). Ecology and Biology of Marine Oligochaeta – an Inventory Rather than another Review. 10.1007/1-4020-5368-1_11.
+-Schlacher, T.A., Schoeman, D.S., Dugan, J., Lastra, M., Jones, A., Scapini, F. and McLachlan, A. (2008), Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology, 29: 70-90. https://doi.org/10.1111/j.1439-0485.2007.00204.x
+-MBON Pole to Pole (2019) Sampling protocol for assessment of marine diversity on sandy beaches. Marine Biodiversity Observation Network Pole to Pole of the Americas, 14pp. DOI: http://dx.doi.org/10.25607/OBP-665
+
+
 ## Running Code
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
