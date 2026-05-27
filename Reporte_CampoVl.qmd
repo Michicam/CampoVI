@@ -13,9 +13,9 @@ Dentro de esta comunidad, los oligoquetos marinos desempeñan una función ecol�
 
 Es importante considerar que la distribución de la fauna no solo cambia en el espacio, sino también en escalas temporales cortas debido a ritmos biológicos y variaciones térmicas a lo largo del día. El metabolismo de los invertebrados aumenta con la temperatura, lo que puede forzar migraciones verticales u horizontales para evitar la desecación y el estrés calórico durante las horas más intensas del sol (McLachlan & Brown, 2006; Giere, 2006). Bajo este contexto, surge la pregunta de investigación: ¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (mañana vs. tarde) en Dzilam de Bravo? Nuestra hipótesis propone que la abundancia de oligoquetos será mayor durante la mañana (M) en ambas zonas, ya que las temperaturas más bajas y la mayor humedad favorecen su presencia en capas superficiales, mientras que por la tarde (T) los organismos migrarán a capas más profundas para protegerse.
 
-Area de estudio
+Área de estudio
 
-Materiales y metodos
+Materiales y métodos
 
 
 Pregunta 
