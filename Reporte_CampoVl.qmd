@@ -7,7 +7,8 @@ format: pdf
 editor: visual
 ---
 
-Introduccion Las playas arenosas han sido tradicionalmente descritas como "desiertos marinos" debido a que su biodiversidad no es evidente a simple vista; sin embargo, son ecosistemas dinámicos que albergan una gran riqueza de vida oculta entre los granos de arena (Schlacher et al., 2008; McLachlan & Brown, 2006). En Dzilam de Bravo, Yucatán nos encontramos ante un sistema de micromarea (rango mareal menor a 2 metros), donde la zonificación biológica es estrecha y está fuertemente influenciada por la energía de las olas y la estructura del sedimento. En estos ambientes, la fauna bentónica no se distribuye de forma aleatoria, sino que responde a gradientes físicos de humedad, temperatura y disponibilidad de alimento que determinan su posición en la costa (McLachlan & Brown, 2006; Schlacher et al., 2008).
+Introduccion
+Las playas arenosas han sido tradicionalmente descritas como "desiertos marinos" debido a que su biodiversidad no es evidente a simple vista; sin embargo, son ecosistemas dinámicos que albergan una gran riqueza de vida oculta entre los granos de arena (Schlacher et al., 2008; McLachlan & Brown, 2006). En Dzilam de Bravo, Yucatán nos encontramos ante un sistema de micromarea (rango mareal menor a 2 metros), donde la zonificación biológica es estrecha y está fuertemente influenciada por la energía de las olas y la estructura del sedimento. En estos ambientes, la fauna bentónica no se distribuye de forma aleatoria, sino que responde a gradientes físicos de humedad, temperatura y disponibilidad de alimento que determinan su posición en la costa (McLachlan & Brown, 2006; Schlacher et al., 2008).
 
 Dentro de esta comunidad, los oligoquetos marinos desempeñan una función ecológica vital al actuar como detritívoros y ser componentes dominantes de la producción secundaria en sedimentos litorales (Giere, 2006). Estos anélidos presentan cuerpos delgados y vermiformes, una adaptación que les permite navegar de manera eficiente por los poros del sedimento, aunque su distribución vertical suele verse afectada por gradientes de oxígeno y la presencia de sulfuros en el ambiente intersticial (McLachlan & Brown, 2006; Giere, 2006). Por lo tanto, el empleo del protocolo estandarizado de la Red de Observación de la Biodiversidad Marina (MBON) permite cuantificar sistemáticamente cómo se organizan estas poblaciones en diferentes estratos mareales, integrando desde el supralitoral hasta la zona de barrido o swash (MBON Pole to Pole, 2019).
 
@@ -46,6 +47,10 @@ Análisis de datos
 Para evaluar el efecto de la zona de muestreo y el horario sobre la longitud corporal de los oligoquetos, se empleó un Análisis de Varianza Multivariado por Permutaciones de dos vías (PERMANOVA), utilizando la función *adonis2* del paquete *vegan* (Oksanen et al., 2024) en el entorno estadístico R. Los factores considerados fueron la zona intermareal (Zona 1: supralitoral; Zona 2: mesolitoral/sublitoral) y el horario de muestreo (matutino y vespertino), incluyendo el término de interacción entre ambos. Dado que la variable de respuesta es una medida lineal continua (longitud en mm), se utilizó la distancia euclidiana como métrica de disimilitud. El análisis se ejecutó con 999 permutaciones libres.
 
 Para la visualización de los resultados se elaboraron dos gráficos mediante el paquete *ggplot2*: un diagrama de caja (*boxplot*) que muestra la distribución de las longitudes por zona y horario, y un gráfico de interacción que representa las tendencias de la longitud promedio en función de los factores evaluados.
+
+
+
+
 
 OPCION 1: 
 -Pregunta de investigación: ¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (matutino vs. vespertino) en Dzilam de Bravo? 
