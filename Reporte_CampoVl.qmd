@@ -41,15 +41,6 @@ De las muestras obtenidas se registró la abundancia y la longitud corporal de c
 | 21 de mayo 2026 | Vespertino | N 21° 23' 14.8" W 088° 55' 22.7" |
 | 22 de mayo 2026 | Matutino   | N 21° 23' 22.5" W 088° 54' 27.7" |
 
-Análisis de datos
-
-Para explorar la variación en la estructura de tallas de los oligoquetos en función de la zona de muestreo y el horario, los datos de longitud corporal de cada individuo fueron transformados en una matriz multivariada de abundancias por clases de talla. Cada individuo fue asignado a una de tres categorías: organismos pequeños (longitud ≤ 2.0 mm), medianos (\> 2.0 mm y ≤ 5.0 mm) y grandes (\> 5.0 mm). Posteriormente, los datos se agregaron por unidad de muestreo (núcleo), obteniendo el conteo de individuos en cada clase de talla por combinación de fecha, zona y horario. Esta transformación permitió pasar de un enfoque univariado a uno multivariado, más apropiado para describir cambios en la composición estructural de la población.
-
-Para evaluar si existían diferencias significativas en la estructura de tallas entre los grupos definidos por la zona (Z1: supralitoral; Z2: mesolitoral/sublitoral) y el horario de muestreo (matutino y vespertino), se empleó un Análisis de Varianza Multivariado por Permutaciones (PERMANOVA2) siguiendo la formulación de Anderson et al. (2017), implementado mediante una función personalizada en R. Se utilizó la distancia de Bray-Curtis como métrica de disimilitud, por ser adecuada para datos de abundancia con presencia de ceros. El análisis se ejecutó con 999 permutaciones libres, utilizando un factor combinado que integró la zona y el horario de cada unidad de muestreo.
-
-Para visualizar la ordenación de las unidades de muestreo en el espacio multivariado, se realizó un Escalamiento Multidimensional No Métrico (NMDS) con dos dimensiones y distancia de Bray-Curtis, utilizando la función *metaMDS* del paquete *vegan* (Oksanen et al., 2024). La calidad del ajuste se evaluó mediante el valor de estrés (*stress*) del modelo. Las unidades de muestreo se graficaron diferenciando por zona y horario, y se añadieron elipses de confianza por grupo para facilitar la interpretación visual de las agrupaciones.
-
-Adicionalmente, se elaboraron gráficos de barras para comparar la abundancia total entre zonas y horarios, así como gráficos de densidad de frecuencias para describir la distribución de longitudes corporales en cada combinación de zona y turno. Todos los análisis y visualizaciones se realizaron en R versión 4.4.1, empleando principalmente los paquetes *tidyverse*, *vegan* y *permute*.
 
 ___________________________ ANALISIS DE DATOS CON NUEVO CODIGO _______________________________________
 
