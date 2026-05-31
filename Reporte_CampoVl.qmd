@@ -76,6 +76,9 @@ Referencias bibliograficas
 -Schlacher, T.A., Schoeman, D.S., Dugan, J., Lastra, M., Jones, A., Scapini, F. and McLachlan, A. (2008), Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology, 29: 70-90. https://doi.org/10.1111/j.1439-0485.2007.00204.x
 -MBON Pole to Pole (2019) Sampling protocol for assessment of marine diversity on sandy beaches. Marine Biodiversity Observation Network Pole to Pole of the Americas, 14pp. DOI: http://dx.doi.org/10.25607/OBP-665 
 -Muciño-Reyes MR, Guerra-Castro E, Castillo-Cupul RE, Paz-Ríos CE and Simões N (2025) Unveiling the diversity of macrobenthic crustaceans on sandy beaches of the eastern Mexican coast: new records and an updated checklist. Front. Mar. Sci. 12:1514137. doi: 10.3389/fmars.2025.1514137
+-Anderson, M.J., Walsh, D.C.I., Robert Clarke, K., Gorley, R.N. and Guerra-Castro, E. (2017), Some solutions to the multivariate Behrens–Fisher problem for dissimilarity-based analyses. Aust. N. Z. J. Stat., 59: 57-79. https://doi.org/10.1111/anzs.12176
+-CLARKE, K.R. (1993), Non-parametric multivariate analyses of changes in community structure. Australian Journal of Ecology, 18: 117-143. https://doi.org/10.1111/j.1442-9993.1993.tb00438.x
+
 
 
 ## Running Code
