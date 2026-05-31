@@ -4,7 +4,7 @@ author: "Emilia Salethy Chable, Luis Ernesto Garcia y Yecsi Shulemi Sanchez"
 Subject: "Campo VI"
 School: "ENES Merida, UNAM"
 format: pdf
-editor: visual
+editor: visual 
 ---
 
 Introduccion
