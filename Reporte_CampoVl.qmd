@@ -79,6 +79,11 @@ OPCION 1: -Pregunta de investigación: ¿Cómo varían la abundancia y la estruc
 
 OPCION 2: -Pregunta ¿Existen diferencias significativas en las medidas de longitud de los oligoquetos entre la zona supralitoral(Zona 1) y la zona mesolitoral/sublitoral(Zona 2) y como interactua este patron entre los turnos de mañana y tarde? -Hipotesis Ho: No existe un efecto de interacción significativo entre la zona de muestreo y el horario sobre la longitud de los oligoquetos y su abundancia. -Ha: Existe un efecto de interacción significativo entre la zona y el horario, lo que indica que las diferencias en la longitud de los oligoquetos y su abundancia depende de la zona donde se encuentran establecidos.
 
+--> CUANDO VAYAMOS IR INSERTANDO LAS IMAGENES 
+
+Figura 1. Ordenación bidimensional mediante Escalamiento Multidimensional No Métrico (NMDS).
+Figura 2. Histograma de distribución de frecuencias por intervalos métricos de 1 cm.
+Figura 3. Variabilidad de la abundancia núcleo por núcleo en intervalos dominantes.
 
 ## Running Code
 
