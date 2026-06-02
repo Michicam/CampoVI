@@ -343,8 +343,6 @@ print(grafico_boxplot)
 
 Discusión.
 
-¿Cómo varían la abundancia y la estructura de tallas de los oligoquetos bentónicos entre la zona supralitoral y la zona de barrido en relación con el horario de muestreo (matutino vs. vespertino) en Dzilam de Bravo? -Hipotesis: la abundancia de oligoquetos será mayor durante la mañana (M) en ambas zonas, ya que las temperaturas más bajas y la mayor humedad favorecen su presencia en capas superficiales, mientras que por la tarde (T) los organismos migrarán a capas más profundas para protegerse.
-
 Las variaciones espaciotemporales detectadas en la estructura de tallas confirman que la población de oligoquetos en Dzilam de Bravo experimenta una intensa redistribución a lo largo del día. En las playas arenosas, la fluctuación diaria de factores críticos como la temperatura superficial del sedimento y la evaporación del agua capilar genera un ambiente altamente dinámico y estresante, obligando a la macrofauna intermareal a modificar continuamente su organización en el espacio para evitar la desecación (Schlacher et al., 2008; Defeo & McLachlan, 2025).
 
 La fuerte dominancia de organismos medianos y pequeños en la playa es una característica biológica típica de estos anélidos, asociada a estrategias de reproducción eficientes y a un reclutamiento constante que compensa la alta mortalidad natural sufrida en la franja intermareal (Giere, 2006). Sin embargo, el hecho de que el cambio de horario afecte la estructura de la población de maneras tan opuestas en cada zona de la playa sugiere que el estrés ambiental vespertino activa diferentes mecanismos de respuesta según el sitio y el tamaño corporal de los individuos (Defeo & McLachlan, 2025).
